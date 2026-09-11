@@ -1,0 +1,22 @@
+nav ul {
+    list-style: none;
+}
+
+nav li{
+    display: inline;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+div {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+main {
+    height: 100vh;
+}
